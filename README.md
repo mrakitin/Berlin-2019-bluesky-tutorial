@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/NSLS-II/tutorial/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mrakitin/Berlin-2019-bluesky-tutorial/master)
 
 # Bluesky Tutorial
 
@@ -7,7 +7,7 @@ It can be used in an Internet browser with no software installation. Click one
 the links below to jump in.
 
 This is free and open to the public. Incidental visitors should
-[start here](https://mybinder.org/v2/gh/NSLS-II/tutorial/master).
+[start here](https://mybinder.org/v2/gh/mrakitin/Berlin-2019-bluesky-tutorial/master).
 If you are doing this tutorial as part of a workshop or special event,
 [start here](https://a1b555ba89cad11e8a8c4021c84f1ed3-2068931781.us-east-1.elb.amazonaws.com)
 
